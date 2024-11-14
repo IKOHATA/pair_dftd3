@@ -11,9 +11,9 @@ pair_style style xc cutoff cnthr
 
 ## Example
 ```
-pair_style	 hybrid/overlay pace dftd3 pbe 12.0 8.0
-pair_coeff	 * * pace c_ace.yace C
-pair_coeff   * * dftd3 param.dftd3 C
+pair_style	 hybrid/overlay pace dftd3 pbe 12.0 8.0  
+pair_coeff	 * * pace c_ace.yace C  
+pair_coeff   * * dftd3 param.dftd3 C  
 ```
 
 ## Description 
