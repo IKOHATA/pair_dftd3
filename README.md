@@ -10,6 +10,9 @@ pair_style style xc cutoff cnthr
 - cnthr = Cutoff radius for coordination number and three-body calculations
 
 ## Example
+```
+
+```
 
 ## Description 
 
