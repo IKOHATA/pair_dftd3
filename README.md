@@ -19,7 +19,7 @@ pair_coeff * * dftd3 param.dftd3 Cu
 ## Description 
 
 The _dftd3_ pair style computes the Grimme's D3 dispersion correction [1] with the Becke-Jones dumping function [2].
-Large cutoff radii often cause memory overflow. A cutoff radius smaller than 12.0 Å is recommmended.
+Large cutoff radii often cause memory shortage. A cutoff radius smaller than 12.0 Å is recommmended.
 
 ## Note
 
