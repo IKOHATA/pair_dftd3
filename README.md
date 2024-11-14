@@ -1,5 +1,5 @@
 # pair_style dftd3 command
-
+Accelerator Variants: dftd3/kk
 ## Syntax
 ```
 pair_style style xc cutoff cnthr
