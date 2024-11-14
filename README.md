@@ -6,7 +6,7 @@ LAMMPS implementation of Grimme's D3 dispersion correction [1] with the Becke-Jo
 ```
 pair_style style xc cutoff cnthr
 ```
-- style = dftd3
+- style = _dftd3_
 - xc = pbe or 
 
 [1] S. Grimme, J. Antony, S. Ehrlich, and S. Krieg, J. Chem. Phys. 132, 154104 (2010).  
