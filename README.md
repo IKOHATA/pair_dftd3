@@ -9,7 +9,7 @@ pair_style style xc cutoff cnthr
 - cutoff = Cutoff radius for two-body dispersion calculations
 - cnthr = Cutoff radius for coordination number and three-body calculations
 
-
+## Example
 
 ## Description 
 
