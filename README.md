@@ -23,7 +23,9 @@ The _dftd3_ pair style computes the Grimme's D3 dispersion correction [1] with t
 ## Note
 
 This implementation was tested in LAMMPS 2 Aug 2023 version.  
-It may not work in some environments/versions.
+It may not work in some environments/versions.  
+Large cutoff radii often cause memory overflow. 
+A cutoff radius shorter than 
 
 [1] S. Grimme, J. Antony, S. Ehrlich, and S. Krieg, J. Chem. Phys. 132, 154104 (2010).  
 [2] S. Grimme, S. Ehrlich, and L. Goerigk, J. Comput. Chem. 32, 1456 (2011).
