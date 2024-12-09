@@ -5,7 +5,7 @@ Accelerator Variants: _dftd3/kk_
 pair_style style xc cutoff cnthr
 ```
 - style = _dftd3_
-- xc = _pbe_ or _b3-lyp_
+- xc = _pbe_ or _b3-lyp_ = Use parameters optimized for the selected XC functional  
 - cutoff = Cutoff radius for two-body dispersion calculations
 - cnthr = Cutoff radius for coordination number and three-body calculations
 
